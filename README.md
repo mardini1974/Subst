@@ -17,3 +17,12 @@ python main.py
 ```
 
 This is a free program use as you wish (AS IS no liability ), All images are copyrighted to owners.
+
+## What is this
+this a gui for subst command in windows, the program looks for unused letters and asks for required path , just click on "Replace path" and get and new folder, press "Delete Letter" to unlink the letter.
+
+when closing the program it will ask if you want to disconect the letter, if No is selected windows will keep the letter for later but to disconnect it later it must be manually done
+```
+subst x: /d
+``` 
+where x: is your drive letter, press on help icon to show this message.
